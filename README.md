@@ -1,7 +1,6 @@
 # Praktikum 3 : HTML Lanjutan - Pemrograman Web
 
 Repository ini dibuat untuk menyelesaikan tugas Praktikum 3 Pemrograman Web.  
-  
 Nama : Fadhil Ridwan Azzril Rassyadi
 NIM : 312510185
 Kelas : I251B  
